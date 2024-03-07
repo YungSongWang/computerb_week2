@@ -1,4 +1,4 @@
-#git branch branch1
+git branch branch2
 git checkout -b branch2
 
 touch file4
